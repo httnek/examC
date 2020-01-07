@@ -1,0 +1,7 @@
+321,kurokawa
+840,ikuno
+327,sekiguchi
+228,shibata
+12,tadokoro
+634,kato
+223,matsuyama
